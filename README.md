@@ -12,5 +12,5 @@ I 'm a software engineer, interested in software and emerging technologies. I am
 
 - 🔭 I 'm the project manager for emerging technologies at [https://www.kku.edu.sa/] King Khalid University
 - 🔍 I have project: 
-  - BUILDING A WEB APPLICATION FOR COURSE FILE MANAGEMENT SYSTEM ([[BUILDING A WEB APPLICATION FOR COURSE FILE MANAGEMENT SYSTEM](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE](https://github.com/King-Khalid-University-CFMS/CFMSProjact)]
+  - BUILDING A WEB APPLICATION FOR COURSE FILE MANAGEMENT SYSTEM ([[BUILDING A WEB APPLICATION FOR COURSE FILE MANAGEMENT SYSTEM](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE]
 - 💬 Ask me about **NERN Stack**
