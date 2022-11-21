@@ -11,7 +11,6 @@
 I 'm a software engineer, interested in software and emerging technologies. I am working on two projects in NERN Stack. I am working on projects with blockchain technology.
 
 - 🔭 I 'm the project manager for emerging technologies at [https://www.kku.edu.sa/] King Khalid University
-- 🔍 I have 2 project: 
-  - https://github.com/King-Khalid-University-CFMS
-  - https://github.com/walaaalasmary/walaa-coms
+- 🔍 I have project: 
+  - [https://github.com/King-Khalid-University-CFMS](https://github.com/King-Khalid-University-CFMS/CFMSProjact)
 - 💬 Ask me about **NERN Stack**
