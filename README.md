@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/abdullah_aann/?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="[https://https://github.com/Abdullahaann7/blob/master/profile-img.png](https://raw.githubusercontent.com/Abdullahaann7/Abdullahaann7/main/profile-img.png)" align="right" width="25%"/>
+  <img src="[[https://https://github.com/Abdullahaann7/blob/master/profile-img.png](https://raw.githubusercontent.com/Abdullahaann7/Abdullahaann7/main/profile-img.png)](https://raw.githubusercontent.com/Abdullahaann7/Abdullahaann7/main/profile-img.png)" align="right" width="25%"/>
 
 I 'm a software engineer, interested in software and emerging technologies. I am working on two projects in NERN Stack. I am working on projects with blockchain technology.
 
