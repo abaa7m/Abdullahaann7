@@ -8,9 +8,9 @@
   
   <img src="https://raw.githubusercontent.com/Abdullahaann7/Abdullahaann7/main/profile-img.png" align="right" width="25%"/>
 
-I 'm a software engineer, interested in software and emerging technologies. I am working on two projects in NERN Stack. I am working on projects with blockchain technology.
+I'm a software engineer, interested in software and emerging technologies. I am working on two projects in NERN Stack. I am working on projects with blockchain technology.
 
-- 🔭 I 'm the project manager for emerging technologies at [King Khalid University](https://www.kku.edu.sa/)
+- 🔭 I'm project manager for emerging technologies at [King Khalid University](https://www.kku.edu.sa/)
 - 🔍 I have project: 
 - [BUILDING A WEB APPLICATION FOR COURSE FILE MANAGEMENT SYSTEM](https://github.com/King-Khalid-University-CFMS/CFMSProjact)
 - 💬 Ask me about **NERN Stack**
